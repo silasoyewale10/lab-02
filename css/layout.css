@@ -1,0 +1,21 @@
+/* *{
+    display: inline-block;
+}
+  */
+  div{
+    width: 500px;
+    height: 600px;
+float: left;
+} 
+
+
+img{
+
+width: 500px;
+height: 500px;
+float: left;
+
+}
+#image-template {
+    display:none;
+}
